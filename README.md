@@ -4,6 +4,6 @@
 <br>
 It's a webpage which summarizes your text using Hugging Face Inference API.
 <br>
-###### My project: [Run on Replit](https://replit.com/@keerthis03/AI-Text-Summarizer-App)
+My project: [Run on Replit](https://replit.com/@keerthis03/AI-Text-Summarizer-App)
 <br>
 #PostmanStudent #AI #Nodejs #Express 
